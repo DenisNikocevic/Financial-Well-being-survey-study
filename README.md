@@ -39,7 +39,10 @@ Represented as a number between 0-100, the scale does not have a clear cut-off p
   <summary>Financial literacy and income</summary>
  
 # Financial literacy
-A
+For this research three key fiancial literacy variables were used that are encompassed in the CFPB.
+  •Financial skill scale score
+  •Lusardi & Mitchell financial knowledge skill scale score
+  •Knoll & Houts financial knowledge scale score
 # Income
 B
 </details>
