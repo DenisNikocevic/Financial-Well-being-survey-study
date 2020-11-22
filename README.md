@@ -27,6 +27,14 @@ Developed by the CFPB with the help of experts and consumers.
 Represented as a number between 0-100, the scale does not have a clear cut-off point for good and bad scores, and extreme values are rare.
 
 ![image](https://user-images.githubusercontent.com/74316333/99919731-7976d880-2d1f-11eb-984f-42c4b9b8ab3b.png)
+
+
+    Variable |        Obs        Mean    Std. Dev.       Min        Max
+    
+-------------+---------------------------------------------------------
+
+    fwbscore |      6,300    56.10063    14.07592         14         95
+
 </details>
 
 # Key policy variables
