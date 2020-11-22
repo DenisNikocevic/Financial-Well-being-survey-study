@@ -5,7 +5,7 @@ This is my presentation about the National Finanacial Well-being Survey
 
 # Introduction
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Key facts and proposed hypothesis</summary>
   
 The survey that I have analyzed for my project was developed in 2017 by the Consumer Financial Protection Bureau.
 
@@ -17,42 +17,42 @@ The main hypothesis that i will be testing in my research is that financial lite
 
 # Key dependent variable
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Financial well being</summary>
   
 The key dependent variable that I will be observing is the Financial well being score
 </details>
 
 # Key policy variables
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Financial literacy and income</summary>
   
 The key dependent variable that I will be observing is the Financial well being score
 </details>
 
-# Control variables
+# Other variables
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Variables that will be accounted for in the model</summary>
   
 The key dependent variable that I will be observing is the Financial well being score
 </details>
 
 # Splitting the data and initial regression results
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Interaction between key variables</summary>
   
 The key dependent variable that I will be observing is the Financial well being score
 </details>
 
 # Visual analysis
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Visual representantation of expected prediction</summary>
   
 The key dependent variable that I will be observing is the Financial well being score
 </details>
 
 # Statistical prediction
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Testing the goodness of fit</summary>
   
 The key dependent variable that I will be observing is the Financial well being score
 </details>
