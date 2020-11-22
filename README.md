@@ -19,12 +19,12 @@ This is my presentation about the National Finanacial Well-being Survey
 <details>
   <summary>Financial well being</summary>
   
-The key dependent variable that I will be observing is the Financial well being score.
+The key dependent variable that I will be observing is the Financial well being score.<br/>
 
-Developed by the CFPB with the help of experts and consumers.
+Developed by the CFPB with the help of experts and consumers.<br/>
 
 
-Represented as a number between 0-100, the scale does not have a clear cut-off point for good and bad scores, and extreme values are rare.
+Represented as a number between 0-100, the scale does not have a clear cut-off point for good and bad scores, and extreme values are rare.<br/>
 
 ![image](https://user-images.githubusercontent.com/74316333/99919731-7976d880-2d1f-11eb-984f-42c4b9b8ab3b.png)
 
@@ -39,10 +39,10 @@ Represented as a number between 0-100, the scale does not have a clear cut-off p
   <summary>Financial literacy and income</summary>
  
 # Financial literacy
-For this research three key fiancial literacy variables were used that are encompassed in the CFPB.
-  •Financial skill scale score
-  •Lusardi & Mitchell financial knowledge skill scale score
-  •Knoll & Houts financial knowledge scale score
+For this research three key fiancial literacy variables were used that are encompassed in the CFPB.<br/>
+  •Financial skill scale score<br/>
+  •Lusardi & Mitchell financial knowledge skill scale score<br/>
+  •Knoll & Houts financial knowledge scale score<br/>
 # Income
 B
 </details>
