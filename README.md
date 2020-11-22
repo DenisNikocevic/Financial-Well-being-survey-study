@@ -29,7 +29,7 @@ Represented as a number between 0-100, the scale does not have a clear cut-off p
 ![image](https://user-images.githubusercontent.com/74316333/99919731-7976d880-2d1f-11eb-984f-42c4b9b8ab3b.png)
 
 
-VariableObsMeanStd. Dev.MinMax			fwbscore6,30056.1006314.075921495
+![image](https://user-images.githubusercontent.com/74316333/99919879-5e589880-2d20-11eb-8fd8-896877fba873.png)
 
 
 </details>
