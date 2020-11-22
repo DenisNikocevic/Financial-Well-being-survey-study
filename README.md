@@ -41,10 +41,17 @@ Represented as a number between 0-100, the scale does not have a clear cut-off p
 # Financial literacy
 For this research three key fiancial literacy variables were used that are encompassed in the CFPB.<br/>
   •Financial skill scale score<br/>
+  
   Financial skill scale was developed by the CFPB.<br/>
+  
   Mesures knowdledge about making financial using 10 questions in the survey.<br/>
+  
   Has a scale of 0-100, with extreme scores being rare.<br/>
+  
   ![image](https://user-images.githubusercontent.com/74316333/99920732-b6de6480-2d25-11eb-932e-d279f363a412.png)<br/>
+  
+  ![image](https://user-images.githubusercontent.com/74316333/99920769-03c23b00-2d26-11eb-828e-2bfb78d75cfb.png)<br/>
+  
   
   •Lusardi & Mitchell financial knowledge skill scale score<br/>
   •Knoll & Houts financial knowledge scale score<br/>
