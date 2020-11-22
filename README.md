@@ -15,5 +15,7 @@ The key dependent variable of my research is the financial well being score pres
 <details>
   <summary>Click to expand!</summary>
   
-
+The key dependent variable that I will be observing is the Financial well being score
 </details>
+
+New
