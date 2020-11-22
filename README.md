@@ -30,7 +30,9 @@ Represented as a number between 0-100, the scale does not have a clear cut-off p
 
 
     Variable |        Obs        Mean    Std. Dev.       Min        Max
+
 -------------+---------------------------------------------------------
+
     fwbscore |      6,300    56.10063    14.07592         14         95
 
 </details>
