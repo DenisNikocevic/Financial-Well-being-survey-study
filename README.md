@@ -1,9 +1,3 @@
 # Financial-Well-being-survey-study
-This is my presentation about the National Finanacial Well-being Survey. su fwbscore
-
-    Variable |        Obs        Mean    Std. Dev.       Min        Max
--------------+---------------------------------------------------------
-    fwbscore |      6,300    56.10063    14.07592         14         95
-
-
-
+This is my presentation about the National Finanacial Well-being Survey
+![image](https://user-images.githubusercontent.com/74316333/99918044-98bc3880-2d14-11eb-9390-48670dd9bb20.png)
