@@ -11,13 +11,9 @@ The main hypothesis that i will be testing in my research is that financial lite
 
 The key dependent variable of my research is the financial well being score presented by the survey which is measured by
 
-# A collapsible section with markdown
+# Key dependent variable
 <details>
   <summary>Click to expand!</summary>
   
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
+
 </details>
