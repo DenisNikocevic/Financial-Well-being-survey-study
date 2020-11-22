@@ -14,13 +14,6 @@ The total number of respondents in the survey is 6,394, with the main study bein
 The main hypothesis that i will be testing in my research is that financial literacy is a better predictor of financial well being than income.
 </details>
 
-The survey that I have analyzed for my project was developed in 2017 by the Consumer Financial Protection Bureau.
-
-The total number of respondents in the survey is 6,394, with the main study being fielded in late 2016.
-
-The main hypothesis that i will be testing in my research is that financial literacy is a better predictor of financial well being than income.
-
-The key dependent variable of my research is the financial well being score presented by the survey which is measured by
 
 # Key dependent variable
 <details>
