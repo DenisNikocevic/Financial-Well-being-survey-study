@@ -37,7 +37,8 @@ Represented as a number between 0-100, the scale does not have a clear cut-off p
 # Key policy variables
 <details>
   <summary>Financial literacy and income</summary>
-  
+ 
+# Financial literacy
 
 Represented as a number between 0-100, the scale does not have a clear cut-off point for good and bad scores, and extreme values are rare.
 </details>
