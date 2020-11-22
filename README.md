@@ -7,11 +7,11 @@ This is my presentation about the National Finanacial Well-being Survey
 <details>
   <summary>Key facts and proposed hypothesis</summary>
   
-The survey that I have analyzed for my project was developed in 2017 by the Consumer Financial Protection Bureau.
+•The survey that I have analyzed for my project was developed in 2017 by the Consumer Financial Protection Bureau.
 
-The total number of respondents in the survey is 6,394, with the main study being fielded in late 2016.
+•The total number of respondents in the survey is 6,394, with the main study being fielded in late 2016.
 
-The main hypothesis that i will be testing in my research is that financial literacy is a better predictor of financial well being than income.
+•The main hypothesis that i will be testing in my research is that financial literacy is a better predictor of financial well being than income.
 </details>
 
 
