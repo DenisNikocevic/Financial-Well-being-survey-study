@@ -26,7 +26,13 @@ The key dependent variable that I will be observing is the Financial well being 
 <details>
   <summary>Financial literacy and income</summary>
   
-The key dependent variable that I will be observing is the Financial well being score
+The key dependent variable that I will be observing is the Financial well being score.
+
+Developed by the CFPB with the help of experts and consumers.
+
+![image](https://user-images.githubusercontent.com/74316333/99919731-7976d880-2d1f-11eb-984f-42c4b9b8ab3b.png)
+
+Represented as a number between 0-100, the scale does not have a clear cut-off point for good and bad scores, and extreme values are rare.
 </details>
 
 # Other variables
