@@ -42,7 +42,6 @@ Represented as a number between 0-100, the scale does not have a clear cut-off p
 A
 # Income
 B
-Represented as a number between 0-100, the scale does not have a clear cut-off point for good and bad scores, and extreme values are rare.
 </details>
 
 # Other variables
