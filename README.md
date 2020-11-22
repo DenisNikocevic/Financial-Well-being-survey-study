@@ -3,11 +3,22 @@ This is my presentation about the National Finanacial Well-being Survey
 
 ![image](https://user-images.githubusercontent.com/74316333/99918044-98bc3880-2d14-11eb-9390-48670dd9bb20.png)
 
-The survey that I have analyzed for my project was developed in 2017 by the Consumer Financial Protection Bureau
+# Introduction
+<details>
+  <summary>Click to expand!</summary>
+  
+The survey that I have analyzed for my project was developed in 2017 by the Consumer Financial Protection Bureau.
 
-The total number of respondents in the survey is 6,394, with the main study being fielded in late 2016
+The total number of respondents in the survey is 6,394, with the main study being fielded in late 2016.
 
-The main hypothesis that i will be testing in my research is that financial literacy is a better predictor of financial well being than income
+The main hypothesis that i will be testing in my research is that financial literacy is a better predictor of financial well being than income.
+</details>
+
+The survey that I have analyzed for my project was developed in 2017 by the Consumer Financial Protection Bureau.
+
+The total number of respondents in the survey is 6,394, with the main study being fielded in late 2016.
+
+The main hypothesis that i will be testing in my research is that financial literacy is a better predictor of financial well being than income.
 
 The key dependent variable of my research is the financial well being score presented by the survey which is measured by
 
@@ -18,4 +29,37 @@ The key dependent variable of my research is the financial well being score pres
 The key dependent variable that I will be observing is the Financial well being score
 </details>
 
-New
+# Key policy variables
+<details>
+  <summary>Click to expand!</summary>
+  
+The key dependent variable that I will be observing is the Financial well being score
+</details>
+
+# Control variables
+<details>
+  <summary>Click to expand!</summary>
+  
+The key dependent variable that I will be observing is the Financial well being score
+</details>
+
+# Splitting the data and initial regression results
+<details>
+  <summary>Click to expand!</summary>
+  
+The key dependent variable that I will be observing is the Financial well being score
+</details>
+
+# Visual analysis
+<details>
+  <summary>Click to expand!</summary>
+  
+The key dependent variable that I will be observing is the Financial well being score
+</details>
+
+# Statistical prediction
+<details>
+  <summary>Click to expand!</summary>
+  
+The key dependent variable that I will be observing is the Financial well being score
+</details>
