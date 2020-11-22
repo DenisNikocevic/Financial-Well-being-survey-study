@@ -39,7 +39,9 @@ Represented as a number between 0-100, the scale does not have a clear cut-off p
   <summary>Financial literacy and income</summary>
  
 # Financial literacy
-
+A
+# Income
+B
 Represented as a number between 0-100, the scale does not have a clear cut-off point for good and bad scores, and extreme values are rare.
 </details>
 
