@@ -56,3 +56,10 @@ The key dependent variable that I will be observing is the Financial well being 
   
 The key dependent variable that I will be observing is the Financial well being score
 </details>
+
+# Conclusion
+<details>
+  <summary>Practical significance</summary>
+  
+The key dependent variable that I will be observing is the Financial well being score
+</details>
