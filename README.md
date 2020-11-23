@@ -87,7 +87,7 @@ Other variables that will be accounted for in both models:<br/>
   
   •Highest educational attainment<br/>
   
-  
+  ![image](https://user-images.githubusercontent.com/74316333/99922121-05dcc780-2d2f-11eb-9d4f-076e8276dd84.png)<br/>
   
   •Ethnicity<br/>
   
