@@ -189,9 +189,28 @@ Scatter plot for out-of-sample testing for the Income model:<br/>
 
 # Cross validation testing
 <details>
-  <summary>Testing the goodness of fit</summary>
-  
-The key dependent variable that I will be observing is the Financial well being score
+  <summary>Cross validation testing with k=5</summary>
+
+Root mean squared deviation:<br/>
+
+Financial literacy model testing:<br/>
+
+![image](https://user-images.githubusercontent.com/74316333/99926176-1007c180-2d41-11eb-9635-541c12520b35.png)<br/>
+
+Income model testing:<br/>
+
+![image](https://user-images.githubusercontent.com/74316333/99926191-2281fb00-2d41-11eb-8c3d-d833696f8f1b.png)<br/>
+
+R-squared:<br/>
+
+Financial literacy model testing:<br/>
+
+![image](https://user-images.githubusercontent.com/74316333/99926218-40e7f680-2d41-11eb-81e8-784d058ef8e9.png)<br/>
+
+Income model testing:<br/>
+
+![image](https://user-images.githubusercontent.com/74316333/99926254-5ceb9800-2d41-11eb-86c9-1417fd897396.png)<br/>
+
 </details>
 
 # Randomized Cross validation testing
