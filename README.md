@@ -62,11 +62,13 @@ For this research three key fiancial literacy variables were used that are encom
 
   •Knoll & Houts financial knowledge scale score<br/>
   
-  Developed by Melisaa A. Z. Knoll and carrie R. Houts.<br/>
+  Developed by Melisaa A. Z. Knoll and Carrie R. Houts.<br/>
   
   The purpose of the scale is to measure financial knowdledge using psychometric techniques, that allow for “the comparison of financial knowledge across studies, populations, and programs.” <br/>
   
    The score is derived from 20 questions<br/>
+  
+  
   
 # Income
 B
