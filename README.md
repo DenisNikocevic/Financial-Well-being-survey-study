@@ -173,7 +173,7 @@ Scatter plot for out-of-sample testing for the Income model:<br/>
   
   Income model:<br/>
   
-  ![image](https://user-images.githubusercontent.com/74316333/99925935-3842f080-2d40-11eb-8b99-9b6b0674d089.png)>br/>
+  ![image](https://user-images.githubusercontent.com/74316333/99925935-3842f080-2d40-11eb-8b99-9b6b0674d089.png)<br/>
   
   Paired t-test for mean<br/>
   
