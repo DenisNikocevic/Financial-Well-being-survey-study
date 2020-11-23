@@ -124,6 +124,14 @@ Other variables that will be accounted for in both models:<br/>
   
 In order to make a predictive model, the data was split into two parts, 20% that would be used for model development and 80% for testing.<br/>
 
+# Full regression model
+<details>
+  <summary>All variables included</summary>
+  
+In order to make a predictive model, the data was split into two parts, 20% that would be used for model development and 80% for testing.<br/>
+
+
+</details>
 
 </details>
 
