@@ -128,6 +128,10 @@ Key data for Financial literacy model<br/>
 
 ![image](https://user-images.githubusercontent.com/74316333/99923523-5efc2980-2d36-11eb-9b09-1a64107bf541.png)<br/>
 
+Key data for the Income model<br/>
+
+![image](https://user-images.githubusercontent.com/74316333/99923666-0a0ce300-2d37-11eb-84d1-7b82d51ff481.png)<br/>
+
 # Full regression model
 <details>
   <summary>All variables and key interactions included</summary>
