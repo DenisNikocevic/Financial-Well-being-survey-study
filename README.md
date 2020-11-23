@@ -160,14 +160,31 @@ Scatter plot for out-of-sample testing for the Income model:<br/>
 # Statistical prediction
 <details>
   <summary>Testing the goodness of fit</summary>
-  
-The key dependent variable that I will be observing is the Financial well being score
 
 # Mean and correlation
 <details>
-  <summary>Testing the goodness of fit</summary>
+  <summary>Testing the mean and correlation between models and actual values</summary>
   
-The key dependent variable that I will be observing is the Financial well being score
+  Correlation<br/>
+  
+  Financial literacy model:<br/>
+  
+  ![image](https://user-images.githubusercontent.com/74316333/99925903-22cdc680-2d40-11eb-91e5-424b5137d8d3.png)<br/>
+  
+  Income model:<br/>
+  
+  ![image](https://user-images.githubusercontent.com/74316333/99925935-3842f080-2d40-11eb-8b99-9b6b0674d089.png)>br/>
+  
+  Paired t-test for mean<br/>
+  
+  Financial literacy model:<br/>
+  
+  ![image](https://user-images.githubusercontent.com/74316333/99925816-c2d72000-2d3f-11eb-9573-583dc08a1d64.png)<br/>
+  
+  Income model:<br/>
+  
+  ![image](https://user-images.githubusercontent.com/74316333/99925851-e732fc80-2d3f-11eb-9451-8953226418ac.png)<br/>
+  
 </details>
 
 # Cross validation testing
