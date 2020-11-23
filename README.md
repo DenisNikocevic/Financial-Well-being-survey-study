@@ -11,7 +11,7 @@ This is my presentation about the National Finanacial Well-being Survey
 
 •The total number of respondents in the survey is 6,394, with the main study being fielded in late 2016.<br/>
 
-•The main hypothesis that i will be testing in my research is that financial literacy is a better predictor of financial well being than income.<br/>
+•The main hypothesis that I will be testing in my research is that financial literacy is a better predictor of financial well being than income.<br/>
 </details>
 
 
@@ -26,7 +26,7 @@ Developed by the CFPB with the help of experts and consumers.<br/>
 
 Represented as a number between 0-100, the scale does not have a clear cut-off point for good and bad scores, and extreme values are rare.<br/>
 
-  ![image](https://user-images.githubusercontent.com/74316333/99919731-7976d880-2d1f-11eb-984f-42c4b9b8ab3b.png)<br/>
+ ![image](https://user-images.githubusercontent.com/74316333/99919731-7976d880-2d1f-11eb-984f-42c4b9b8ab3b.png)<br/>
 
 
 ![image](https://user-images.githubusercontent.com/74316333/99919879-5e589880-2d20-11eb-8fd8-896877fba873.png)<br/>
