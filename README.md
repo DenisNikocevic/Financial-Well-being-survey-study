@@ -70,8 +70,14 @@ For this research three key fiancial literacy variables were used that are encom
   
   ![image](https://user-images.githubusercontent.com/74316333/99921376-49810280-2d2a-11eb-839a-c803eadbdd35.png)<br/>
   
-# Income
-B
+# Income<br/>
+
+For this research income will be measured by the Household income variable from the CBPF survey.<br/>
+
+The values are presented in an integer form, with values ranging from 1 (less than 20,000$) to 9 (150,000$ and more).<br/>
+
+![image](https://user-images.githubusercontent.com/74316333/99921585-96b1a400-2d2b-11eb-9165-52fba054b8d4.png)<br/>
+
 </details>
 
 # Other variables
