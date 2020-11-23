@@ -83,6 +83,7 @@ The values are presented in an integer form, with values ranging from 1 (less th
 # Other variables
 <details>
   <summary>Variables that will be accounted for in the model</summary>
+
 Other variables that will be accounted for in both models:<br/>
   
   •Highest educational attainment<br/>
@@ -91,13 +92,23 @@ Other variables that will be accounted for in both models:<br/>
   
   •Ethnicity<br/>
   
+  ![image](https://user-images.githubusercontent.com/74316333/99922197-800d4c00-2d2f-11eb-9476-ee6b6807e2f5.png)<br/>
+  
   •Age group<br/>
+  
+  ![image](https://user-images.githubusercontent.com/74316333/99922254-e72b0080-2d2f-11eb-9102-bbd2b9ded43a.png)<br/>
   
   •Gender<br/>
   
+  ![image](https://user-images.githubusercontent.com/74316333/99922288-21949d80-2d30-11eb-933c-094e8a355392.png)<br/>
+  
   •Highest parental educational attainement<br/>
   
+  ![image](https://user-images.githubusercontent.com/74316333/99922331-57d21d00-2d30-11eb-8508-2de9c439042d.png)<br/>
+  
   •Highest educational attainement in the household<br/>
+
+![image](https://user-images.githubusercontent.com/74316333/99922370-8819bb80-2d30-11eb-82a2-789f510951a3.png)<br/>
 
 </details>
 
