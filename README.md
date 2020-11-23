@@ -151,6 +151,9 @@ Scatter plot for out-of-sample testing for the Financial Literacy model:<br/>
 ![image](https://user-images.githubusercontent.com/74316333/99925076-eb114f80-2d3c-11eb-9a3d-976a8a207b55.png)<br/>
 
 
+Scatter plot for out-of-sample testing for the Income model:<br/>
+
+![image](https://user-images.githubusercontent.com/74316333/99925198-74288680-2d3d-11eb-9704-cd8f53eda322.png)<br/>
 
 </details>
 
