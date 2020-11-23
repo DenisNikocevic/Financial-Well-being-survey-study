@@ -26,7 +26,7 @@ Developed by the CFPB with the help of experts and consumers.<br/>
 
 Represented as a number between 0-100, the scale does not have a clear cut-off point for good and bad scores, and extreme values are rare.<br/>
 
-!![image](https://user-images.githubusercontent.com/74316333/99919731-7976d880-2d1f-11eb-984f-42c4b9b8ab3b.png)<br/>
+..![image](https://user-images.githubusercontent.com/74316333/99919731-7976d880-2d1f-11eb-984f-42c4b9b8ab3b.png)<br/>
 
 
 ![image](https://user-images.githubusercontent.com/74316333/99919879-5e589880-2d20-11eb-8fd8-896877fba873.png)<br/>
