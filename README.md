@@ -244,5 +244,10 @@ Income model testing:<br/>
 <details>
   <summary>Practical significance</summary>
   
-The key dependent variable that I will be observing is the Financial well being score
+While there is no evidence to suggest a causal effects, the data does seem to show that financial literacy could be a better predictor of financial well being.<br/>
+
+Further data analysis would be needed, one that analyzes data over a longer time perdiod<br/>
+
+
+
 </details>
