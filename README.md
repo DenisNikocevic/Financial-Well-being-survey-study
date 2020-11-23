@@ -83,8 +83,22 @@ The values are presented in an integer form, with values ranging from 1 (less th
 # Other variables
 <details>
   <summary>Variables that will be accounted for in the model</summary>
+Other variables that will be accounted for in both models:<br/>
   
-The key dependent variable that I will be observing is the Financial well being score
+  •Highest educational attainment<br/>
+  
+  
+  
+  •Ethnicity<br/>
+  
+  •Age group<br/>
+  
+  •Gender<br/>
+  
+  •Highest parental educational attainement<br/>
+  
+  •Highest educational attainement in the household<br/>
+
 </details>
 
 # Splitting the data and initial regression results
