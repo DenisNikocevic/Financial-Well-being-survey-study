@@ -110,13 +110,19 @@ Other variables that will be accounted for in both models:<br/>
 
 ![image](https://user-images.githubusercontent.com/74316333/99922370-8819bb80-2d30-11eb-82a2-789f510951a3.png)<br/>
 
+ •Region<br/>
+ 
+ ![image](https://user-images.githubusercontent.com/74316333/99922593-a7fdaf00-2d31-11eb-8307-9c1b50891d74.png)<br/>
+ 
 </details>
 
 # Splitting the data and initial regression results
 <details>
   <summary>Interaction between key variables</summary>
   
-The key dependent variable that I will be observing is the Financial well being score
+In order to make a predictive model, the data was split into two parts, 20% that would be used for model development and 80% for testing.<br/>
+
+
 </details>
 
 # Visual analysis
