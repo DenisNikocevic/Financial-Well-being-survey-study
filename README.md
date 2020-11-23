@@ -124,9 +124,13 @@ Other variables that will be accounted for in both models:<br/>
   
 In order to make a predictive model, the data was split into two parts, 20% that would be used for model development and 80% for testing.<br/>
 
+Key data for Financial literacy model<br/>
+
+![image](https://user-images.githubusercontent.com/74316333/99923523-5efc2980-2d36-11eb-9b09-1a64107bf541.png)<br/>
+
 # Full regression model
 <details>
-  <summary>All variables included</summary>
+  <summary>All variables and key interactions included</summary>
   
 ![image](https://user-images.githubusercontent.com/74316333/99923032-16dc0780-2d34-11eb-973b-a57bd38c9c31.png)<br/>
 
