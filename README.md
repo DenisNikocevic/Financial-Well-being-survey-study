@@ -128,8 +128,7 @@ In order to make a predictive model, the data was split into two parts, 20% that
 <details>
   <summary>All variables included</summary>
   
-In order to make a predictive model, the data was split into two parts, 20% that would be used for model development and 80% for testing.<br/>
-
+![image](https://user-images.githubusercontent.com/74316333/99923032-16dc0780-2d34-11eb-973b-a57bd38c9c31.png)<br/>
 
 </details>
 
