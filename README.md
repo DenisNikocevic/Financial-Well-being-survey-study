@@ -215,9 +215,28 @@ Income model testing:<br/>
 
 # Randomized Cross validation testing
 <details>
-  <summary>Testing the goodness of fit</summary>
+  <summary>Another Cross validation test after randomizing order</summary>
   
-The key dependent variable that I will be observing is the Financial well being score
+Root mean squared deviation:<br/>
+
+Financial literacy model testing:<br/>
+
+![image](https://user-images.githubusercontent.com/74316333/99926534-53aefb00-2d42-11eb-9060-eb931ffbc380.png)<br/>
+
+Income model testing:<br/>
+
+![image](https://user-images.githubusercontent.com/74316333/99926571-76411400-2d42-11eb-8991-3083649fd9a2.png)<br/>
+
+R-squared:<br/>
+
+Financial literacy model testing:<br/>
+
+![image](https://user-images.githubusercontent.com/74316333/99926593-8c4ed480-2d42-11eb-819c-a96ec3687317.png)<br/>
+
+Income model testing:<br/>
+
+![image](https://user-images.githubusercontent.com/74316333/99926616-9c66b400-2d42-11eb-844b-6b52ad2391a0.png)<br/>
+
 </details>
 </details>
 
