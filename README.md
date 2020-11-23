@@ -162,6 +162,27 @@ Scatter plot for out-of-sample testing for the Income model:<br/>
   <summary>Testing the goodness of fit</summary>
   
 The key dependent variable that I will be observing is the Financial well being score
+
+# Mean and correlation
+<details>
+  <summary>Testing the goodness of fit</summary>
+  
+The key dependent variable that I will be observing is the Financial well being score
+</details>
+
+# Cross validation testing
+<details>
+  <summary>Testing the goodness of fit</summary>
+  
+The key dependent variable that I will be observing is the Financial well being score
+</details>
+
+# Randomized Cross validation testing
+<details>
+  <summary>Testing the goodness of fit</summary>
+  
+The key dependent variable that I will be observing is the Financial well being score
+</details>
 </details>
 
 # Conclusion
