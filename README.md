@@ -52,8 +52,14 @@ For this research three key fiancial literacy variables were used that are encom
   
   ![image](https://user-images.githubusercontent.com/74316333/99920769-03c23b00-2d26-11eb-828e-2bfb78d75cfb.png)<br/>
   
-  
   •Lusardi & Mitchell financial knowledge skill scale score<br/>
+  
+  Measurement of financial literacy developed by Annamaria Lusardi and Olivia S. Mitchell.<br/>
+  
+  Has a scale between 0-3, and measures knowledge in regards to: Interest rates, Inflation and Risk diversification.<br/>
+
+  ![image](https://user-images.githubusercontent.com/74316333/99920940-446e8400-2d27-11eb-8541-7f9b16678aa5.png)<br/>
+
   •Knoll & Houts financial knowledge scale score<br/>
 # Income
 B
