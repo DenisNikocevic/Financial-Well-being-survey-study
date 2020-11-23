@@ -246,8 +246,8 @@ Income model testing:<br/>
   
 While there is no evidence to suggest a causal effects, the data does seem to show that financial literacy could be a better predictor of financial well being.<br/>
 
-Further data analysis would be needed, one that analyzes data over a longer time perdiod<br/>
+Further data analysis would be needed, one that analyzes data over a longer time perdiod.<br/>
 
-
+Nonetheless, the research seems to show that financial literacy plays a larger role than previously believed in understanding financial well being.<br/>
 
 </details>
