@@ -68,7 +68,7 @@ For this research three key fiancial literacy variables were used that are encom
   
    The score is derived from 20 questions<br/>
   
-  
+  ![image](https://user-images.githubusercontent.com/74316333/99921376-49810280-2d2a-11eb-839a-c803eadbdd35.png)<br/>
   
 # Income
 B
