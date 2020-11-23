@@ -78,6 +78,8 @@ The values are presented in an integer form, with values ranging from 1 (less th
 
 ![image](https://user-images.githubusercontent.com/74316333/99921585-96b1a400-2d2b-11eb-9165-52fba054b8d4.png)<br/>
 
+![image](https://user-images.githubusercontent.com/74316333/99922831-d7f98200-2d32-11eb-945a-19440d28d010.png)<br/>
+
 </details>
 
 # Other variables
